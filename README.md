@@ -7,9 +7,10 @@
 </ul>
 
 ## Tampilan Login
-
+<img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/Login.jpg?raw=true" alt="Tampilan SplashScreen" width="180px" height="350px"/>
 ## Tampilan SplashScreen
 <img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/SplashScreen.jpg?raw=true" alt="Tampilan SplashScreen" width="180px" height="350px"/>
-
 ## Tampilan Register
+<img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/Regiter.jpg?raw=true" alt="Tampilan SplashScreen" width="180px" height="350px"/>
 ## Tampilan Dashboard
+<img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/Dashboard.jpg?raw=true" alt="Tampilan SplashScreen" width="180px" height="350px"/>
