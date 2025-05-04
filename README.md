@@ -9,7 +9,7 @@
 ## Tampilan Login
 
 ## Tampilan SplashScreen
-<img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/SplashScreen.jpg?raw=true" alt="Tampilan SplashScreen"/>
+<img src="https://github.com/Sdq-Abstract/Sdq-Abstract-UTS_Pemmob1_Ibnu-Rasyid_23552011028/blob/main/tampilan/SplashScreen.jpg?raw=true" alt="Tampilan SplashScreen" width="30px" height="120px"/>
 
 ## Tampilan Register
 ## Tampilan Dashboard
