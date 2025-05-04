@@ -8,8 +8,8 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:background="@color/white"
+        android:orientation="horizontal"
+        android:background="@color/trasparant"
         tools:ignore="MissingConstraints">
 
         <ImageView
@@ -17,18 +17,56 @@
             android:src="@mipmap/ic_launcher_round"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:layout_gravity="center"
             android:scaleType="centerCrop"
             android:adjustViewBounds="true"/>
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
 
-            <TextView
-                android:id="@+id/title"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Judul"
-                android:layout_gravity="center"
-                android:textSize="16sp"
-                android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="Judul berita"
+            android:fontFamily="@font/obfont"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/lihat"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/olfont"
+            android:text="Lihat Selengkapnya di bawah sini: "
+            android:layout_gravity="center"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/linkUrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:autoLink="web"
+            android:text="Judul berita"
+            android:fontFamily="@font/olfont"
+            android:layout_gravity="center"
+            android:textSize="16sp" />
+
+
+
+
+
+    </LinearLayout>
+
+
 
 
     </LinearLayout>

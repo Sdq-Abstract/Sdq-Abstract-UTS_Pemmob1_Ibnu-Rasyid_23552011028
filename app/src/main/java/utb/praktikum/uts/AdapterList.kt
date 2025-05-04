@@ -14,6 +14,7 @@ class AdapterList (private val itemLists : kotlin.collections.List<ItemList>) : 
     class ViewHolder (@NonNull itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imageView: ImageView = itemView.findViewById(R.id.item_image)
         val judul : TextView = itemView.findViewById(R.id.title)
+        val link : TextView = itemView.findViewById(R.id.linkUrl)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): AdapterList.ViewHolder {
@@ -25,6 +26,7 @@ class AdapterList (private val itemLists : kotlin.collections.List<ItemList>) : 
 
         val item = itemLists[position]
         holder.judul.text = item.judul
+        holder.link.text = item.link
 
         Glide.with(holder.imageView.context).load(item.imageUrl).into(holder.imageView);
 

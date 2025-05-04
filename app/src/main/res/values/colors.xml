@@ -6,5 +6,6 @@
     <color name="bgButton">#FCB454</color>
     <color name="thumb">#F16767</color>
     <color name="card">#FF9B17</color>
+    <color name="trasparant">#80FFFFFF</color>
 
 </resources>

@@ -21,6 +21,7 @@
             android:text="Login"
             android:textSize="32sp"
             android:textStyle="bold"
+            android:fontFamily="@font/osbfont"
             android:layout_marginBottom="24dp"
             android:layout_gravity="center"/>
 
@@ -56,6 +57,7 @@
                 android:layout_width="10dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:fontFamily="@font/olfont"
                 android:backgroundTint="@color/bgButton"
                 android:text="Register" />
 
@@ -65,6 +67,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Login"
+                android:fontFamily="@font/olfont"
                 android:layout_marginStart="16dp"
                 android:backgroundTint="@color/bgButton"/>
 
@@ -76,6 +79,7 @@
             android:text="Jika belum memiliki akun silahkan klik register"
             android:textSize="16sp"
             android:textStyle="bold"
+            android:fontFamily="@font/olfont"
             android:layout_marginTop="30dp"
             android:layout_marginBottom="24dp"
             android:layout_gravity="center" />
