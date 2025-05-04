@@ -3,10 +3,8 @@
 <ul>
   <li>Nama : Ibnu Rasyid Assidiq</li>
   <li>Kelas : TIF RP 23 CID A</li>
-  <li>Nama : Ibnu Rasyid Assidiq</li>
+  <li>NPM : 23552011028</li>
 </ul>
-
-## Tampilan 
 
 ## Tampilan Login
 
